@@ -1,0 +1,1 @@
+alert("Click ok to display current date");
